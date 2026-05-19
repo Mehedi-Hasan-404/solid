@@ -1,169 +1,169 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/T SPORTS1744972630.png",T SPORTS
-http://tv.moviemasti.net:8082/T-SPORTS-HD/index.m3u8?token=7dc563d0a6fc97d210d966fe5a09b691e35ccc78-f55cecd1b23e4929d2ce8baa9efc2231-1779155590-1779144790&remote=no_check_ip
+http://tv.moviemasti.net:8082/T-SPORTS-HD/index.m3u8?token=ac02e7c9de4b8dd71e67a79214c80734d2052d43-437d3da803b5f287afdc517ba95327df-1779159522-1779148722&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR SPORTS 1 HD1744991778.png",STAR SPORTS 1 HD
-http://tv.moviemasti.net:8082/STAR.SPORTS1.HD/index.m3u8?token=89738dc88bde9433d4ef1c0debefaf08a33231ca-be26915e6a53117e6a1455be9004c994-1779155591-1779144791&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.SPORTS1.HD/index.m3u8?token=f5db9d72535377270942850548c3e220a452621c-41981da36eeb07e3985bcc94723a093b-1779159523-1779148723&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR SPORTS 2 HD1744991842.png",STAR SPORTS 2 HD
-http://tv.moviemasti.net:8082/STAR.SPORTS2.HD/index.m3u8?token=3d74c8d921e85c5ca038d21af7a608561e8e6d63-caa814acacad71f6149f1a72b30e8658-1779155592-1779144792&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.SPORTS2.HD/index.m3u8?token=050d4e5695b849521abc5131f97d78edb10dbc3a-0cae5dbe1b5ac3d98b2a460c9c9dee3f-1779159524-1779148724&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/COLORS HD1745031404.png",COLORS HD
-http://tv.moviemasti.net:8082/COLORS.HD/index.m3u8?token=f4b52092724b0c1916fbcba0a014eab4764efe21-8b98b9e0d4e0927fda27854968fbc67f-1779155592-1779144792&remote=no_check_ip
+http://tv.moviemasti.net:8082/COLORS.HD/index.m3u8?token=173d584babae7e8bff836456cc7a85c8396f7c86-babe2690bd0e5ab04494ac5d60180cf9-1779159525-1779148725&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/AND PICTURS HD1745031440.png",AND PICTURES HD
-http://tv.moviemasti.net:8082/ANT.PICTURS.HD/index.m3u8?token=e88a5d095610f50851cc899cd4d6cd7d177d777e-619333186a77a606bc3da1f452ee00f5-1779155593-1779144793&remote=no_check_ip
+http://tv.moviemasti.net:8082/ANT.PICTURS.HD/index.m3u8?token=1bc440f21901faf0ffd6b6952fb2bd452721ab62-4ddd5725ffdc697927da57b27c5b6668-1779159525-1779148725&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SONY BBC EARTH HD1745031522.png",SONY BBC EARTH HD
-http://tv.moviemasti.net:8082/SONY.BBC.EARTH.HD/index.m3u8?token=374f79c06c73a9a13a9390049eed4b7d69b791bf-6bc3a01f420b0c768c857deeec7e60e3-1779155594-1779144794&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.BBC.EARTH.HD/index.m3u8?token=8003bdd8085660ebf34302908f38f2ce95c88ff7-b75580cc4783f34a1ad374cbf35b6899-1779159526-1779148726&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ZEE TV HD1745033383.png",ZEE TV HD
-http://tv.moviemasti.net:8082/ZEE.TV.HD/index.m3u8?token=e4b09ff59933a8c73f690428e68ad682d6b8103e-44494b8a1d0e489cd2e68d61ff1cd323-1779155595-1779144795&remote=no_check_ip
+http://tv.moviemasti.net:8082/ZEE.TV.HD/index.m3u8?token=37a6ead633eac709e512cba9cd54e862101ed058-51aa737ab198d41cf4c673904b675595-1779159527-1779148727&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/CARTOON NETWORK1745033414.png",CARTOON NETWORK
-http://tv.moviemasti.net:8082/CARTON.NETWORK.HD/index.m3u8?token=ff94b491aa597aa447d45d1b843940018f7caaae-3965d11dec963924768928da9e4c0ea9-1779155596-1779144796&remote=no_check_ip
+http://tv.moviemasti.net:8082/CARTON.NETWORK.HD/index.m3u8?token=e77065a4509f6a1dcfe48b22a7c343c43ecc44c9-89b332979d47d5a3722e3aaeeaae0a1f-1779159528-1779148728&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/TLC HD1745033484.png",TLC HD
-http://tv.moviemasti.net:8082/TLC.HD/index.m3u8?token=7abad595393d9d1cf56a9284dfbdeb852c2b6a4c-8a27c58ac28d6f762204002832a3be79-1779155597-1779144797&remote=no_check_ip
+http://tv.moviemasti.net:8082/TLC.HD/index.m3u8?token=654a1424e5130a6594e5863ad158b72031e4dd1b-6e6cc42314d692cc2af1f9a4e01019e7-1779159529-1779148729&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/COLORS CINEPLEX HD1745033519.png",COLORS CINEPLEX HD
-http://tv.moviemasti.net:8082/COLORS.CINEPLEX.HD/index.m3u8?token=e105ad66f0a9d6dad0d5bf98bc40f09f235963be-439d1dc96e91e23e7421f3f5db4bb972-1779155598-1779144798&remote=no_check_ip
+http://tv.moviemasti.net:8082/COLORS.CINEPLEX.HD/index.m3u8?token=6354ccf8b0db055082d16b19564bf04c1f3d79be-1229b09362da7fbeb31efebae0e88310-1779159530-1779148730&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SONY ENT HD1745033553.png",SONY ENT HD
-http://tv.moviemasti.net:8082/SONY.ENT.HD/index.m3u8?token=265b376290334884bfaf1a4fb0c3de89db40b974-9b4fb2eb2d94bf01eb786e7ddd3a2618-1779155599-1779144799&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.ENT.HD/index.m3u8?token=93c6806c6575d0f7b89f55cdabf867c8fd82b715-74484ce40e344932b716d9f6d6214f1f-1779159530-1779148730&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/COLORS BANGLA HD1745033576.png",COLORS BANGLA HD
-http://tv.moviemasti.net:8082/COLORS.BANGLA.HD/index.m3u8?token=69658c81cd42471c415b821ef880b0c13f78e894-ec55c72755414a6e4fa92e7c0c5ba213-1779155599-1779144799&remote=no_check_ip
+http://tv.moviemasti.net:8082/COLORS.BANGLA.HD/index.m3u8?token=f4f7db80f39c8e72c84eca460f22378e90363376-e89971874ea0a72efeee74642a71007d-1779159531-1779148731&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ZEE CINEMA HD1745033602.png",ZEE CINEMA HD
-http://tv.moviemasti.net:8082/ZEE.CINEMA.HD/index.m3u8?token=485a61a625be853deb50f10e1d03ae5b607933a9-dc5ef7c35a228db09dcb3f8c4f1d013b-1779155600-1779144800&remote=no_check_ip
+http://tv.moviemasti.net:8082/ZEE.CINEMA.HD/index.m3u8?token=33f8454b954f3b59627e64d9e4d28eb030885ceb-f4631012d2379ee00ffc352cf833cd53-1779159532-1779148732&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ZEE BANGLA HD1745033633.png",ZEE BANGLA HD
-http://tv.moviemasti.net:8082/ZEE.BANGLA.HD/index.m3u8?token=902c6712757b1b1f4acc722e1d3d28058d2e86ee-9ae3c01092fc99c6ecbe108a63cee2b8-1779155601-1779144801&remote=no_check_ip
+http://tv.moviemasti.net:8082/ZEE.BANGLA.HD/index.m3u8?token=5c75a6064b209825ad6fe3ab3b27f4af9f1dd2e3-c9e0cd78c4edb995c92e6f7e0319ef16-1779159533-1779148733&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/HISTORY TV HD1745033679.png",HISTORY TV HD
-http://tv.moviemasti.net:8082/HISTORY.TV.18.HD/index.m3u8?token=634010b8b2359ad3fac5bbaa39fb68f50905d47c-bb277017e4a546b582e9bff54946f621-1779155602-1779144802&remote=no_check_ip
+http://tv.moviemasti.net:8082/HISTORY.TV.18.HD/index.m3u8?token=5f40795d5089c34089adc86401bb89aa8d3caecb-3097a22fc4d22ffcb309f9ceb5cb108f-1779159534-1779148734&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR SPORTS SELECT 2 HD1745033722.png",STAR SPORTS SELECT 2 HD
-http://tv.moviemasti.net:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=32d32b7b1041b742e847c5659fcbe7a4304da2f1-03fe0f6fab6a19f6827fc37032c5f44e-1779155603-1779144803&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=aa660b5b390d5d92a22a356111d064128d9555b7-68edf6c97c0b0beb7fc9ca4bf6845f8d-1779159534-1779148734&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SUN BANGLA HD1745033791.png",SUN BANGLA HD
-http://tv.moviemasti.net:8082/SUN.BANGLA.HD/index.m3u8?token=75b435b27c7a60b778bdc729212a4319ec969ec0-bfcd9c50cb477a939e565b13fa91548d-1779155604-1779144804&remote=no_check_ip
+http://tv.moviemasti.net:8082/SUN.BANGLA.HD/index.m3u8?token=9c670a8b3ce0084463fae3455cf08c7219035a55-04a9bf80d4eb197c8ecf96b7ad50bd62-1779159535-1779148735&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR JALSHA HD1745033819.png",STAR JALSHA HD
-http://tv.moviemasti.net:8082/STAR.JALSHA.HD/index.m3u8?token=7ffb0918d10d8600e71b4d04f4336264a7fba99f-d76eb5bca06b8ad1a473002ee2dc0c49-1779155604-1779144804&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.JALSHA.HD/index.m3u8?token=a0f1977bde82abb85f3a4c2963d460fbdaa173cf-61955df236aa4e1667f85aab076ac8d5-1779159536-1779148736&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/JALSHA MOVIES HD1745034005.png",JALSHA MOVIES HD
-http://tv.moviemasti.net:8082/JALSHA.MOVIES.HD/index.m3u8?token=1983d7a459c4f47652c4f47bd46f9cf5bbb6de9b-edb1ab2b2247535a9a74c2f54c8d7b5c-1779155605-1779144805&remote=no_check_ip
+http://tv.moviemasti.net:8082/JALSHA.MOVIES.HD/index.m3u8?token=2a552d274b744ad1656ad5924984e6c42293b8e0-513040d950f5a378ae45c9cb5f25c44b-1779159537-1779148737&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR GOLD HD1745034037.png",STAR GOLD HD
-http://tv.moviemasti.net:8082/STAR.GOLD.HD/index.m3u8?token=b05764a8cadbfb394644a4ca997c95a132313e7c-1697c95d0cdd0fc39de09e7403e6d970-1779155606-1779144806&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.GOLD.HD/index.m3u8?token=cc6f2817fa59bfb35b9f6d922b2042178f8c6a5d-97ffd0c85db726621dd1e5972a496807-1779159538-1779148738&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SONY MAX HD1745034069.png",SONY MAX HD
-http://tv.moviemasti.net:8082/SONY.MAX.HD/index.m3u8?token=6bccbcb7c7c93cd325d605207dc323db91021972-2f1747c8bfab1b01dcd32ecdcc20af55-1779155607-1779144807&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.MAX.HD/index.m3u8?token=fdb538e7ac71850446d2f48ee96f1b431d842501-11b43c204c369b7c6380ded2746fc5c8-1779159538-1779148738&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/discovery hd.png",DISCOVERY HD
-http://tv.moviemasti.net:8082/DISCOVERY.HD/index.m3u8?token=a08fc5e8bad8b20590f4310fdf919423b0f38cd5-400e3193c74ccd93a5a8d9d9ad5e344c-1779155608-1779144808&remote=no_check_ip
+http://tv.moviemasti.net:8082/DISCOVERY.HD/index.m3u8?token=1c340aadc94e8866e9315c1435b72e84b0b86b35-6bdfc3e1b74c0233de3c3be83d4a41ea-1779159539-1779148739&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/NATGEO WILD HD1745038542.png",NATGEO WILD HD
-http://tv.moviemasti.net:8082/NATGEO.WILD.HD/index.m3u8?token=0036bc0f287e186f4540885d6e34b464e0a4fc8a-b59a6e8ed5f87bc0b09f6f3f3ad14675-1779155608-1779144808&remote=no_check_ip
+http://tv.moviemasti.net:8082/NATGEO.WILD.HD/index.m3u8?token=30a7233a17465d0bb9368b60a0ca946246f4b2e5-33f007498942570b2e4fcb107147dee2-1779159540-1779148740&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR PLUS HD1745038577.png",STAR PLUS HD
-http://tv.moviemasti.net:8082/STAR.PLUS.HD/index.m3u8?token=cdb72524b2eb0ed90923a25d502f5471ea9906d2-120a9fbf73b4c8011be6a9aaed4bdba8-1779155609-1779144809&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.PLUS.HD/index.m3u8?token=d7de73a193d431fda04b5aa7ab4c1fe431d88e67-c3c871f6e09a0edbb0d2b4fdee0a26e0-1779159541-1779148741&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/NATGEO HD1745038634.png",NATGEO HD
-http://tv.moviemasti.net:8082/NATGEO.HD/index.m3u8?token=ca1f6d5896b3e4f0c73f090deacef3ff74ee504f-99f0cad984fc13dda6be773b32ddd5df-1779155610-1779144810&remote=no_check_ip
+http://tv.moviemasti.net:8082/NATGEO.HD/index.m3u8?token=c6cfbf48c20058e25d4f4c8d912ec57988cfe0f2-05214fd8b1969896f548fc8b8035e658-1779159542-1779148742&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ANIMAL PLANET HD1745038671.png",ANIMAL PLANET HD
-http://tv.moviemasti.net:8082/ANIMAL.PLANET.HD/index.m3u8?token=79e6d991fc02ac66fdb51d319958201c69828c03-58ec1214655c6b8c846922ada34867e3-1779155611-1779144811&remote=no_check_ip
+http://tv.moviemasti.net:8082/ANIMAL.PLANET.HD/index.m3u8?token=e2861e71d5e06c98aa662b5814178e5c08a29e03-542c215b5bb9030ec61a2f83c5af0889-1779159542-1779148742&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR MOVIES SELECT HD1745038723.png",STAR MOVIES SELECT HD
-http://tv.moviemasti.net:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=41c5d84681759a3a6853176e06c0216f9e27408f-988fa0797bfa16c147daaf5f2f925072-1779155612-1779144812&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=def35769c6cb6d4733918ef7cc0d28519384937e-10f30da482e3a7d17e09f2f4ae719b31-1779159543-1779148743&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR SELECT 1 HD1745038777.png",STAR SELECT 1 HD
-http://tv.moviemasti.net:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=0e935ccc70a01b026efb25828df0a4af5677586b-b969c450ef0e99cb94b8f49968d505ef-1779155612-1779144812&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=ef4dc43eb1ad3f59f83605eed6aa478d3d5c212a-a47353d41dd0bea193090d12c7c1f591-1779159544-1779148744&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/sony sports 2 hd.png",SONY SPORTS 2 HD
-http://tv.moviemasti.net:8082/SONY.SPORTS2.HD/index.m3u8?token=777355072af0b4dc7a690ee49b9a7dc581b6e14e-f25873cd3db60596374452f50979d483-1779155613-1779144813&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.SPORTS2.HD/index.m3u8?token=084277a5247aa695d0fae6acb192ac29de894106-244701b8e6a16ef77a17306a2e4f4b60-1779159545-1779148745&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/Sony sports 3.png",SONY SPORTS 3
-http://tv.moviemasti.net:8082/SONY.SPORTS.3/index.m3u8?token=95330ff79b802106fbee2741b3ffcbffa4536f2d-574e4e45c73658fd45fad9d31130bf24-1779155614-1779144814&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.SPORTS.3/index.m3u8?token=d32f3567baa731ec7d29ca72dae2a7df1bacfd56-2e8b5fa28581a1a27395e56a1d997f6f-1779159546-1779148746&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR SPORTS 31745039893.png",STAR SPORTS 3
-http://tv.moviemasti.net:8082/STAR-SPORTS.3/index.m3u8?token=403eb3d3babbc7796b54e76af453aea5e4791574-2866c944697fb254c5d159ce00ccf936-1779155615-1779144815&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR-SPORTS.3/index.m3u8?token=7c22bbf271ad1d74f92854ac38c9e08c1f5140b0-f66ed6dbdce943b29b0993f550fab530-1779159546-1779148746&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SONY PIX HD1745039925.png",SONY PIX HD
-http://tv.moviemasti.net:8082/SONY.PIX.HD/index.m3u8?token=e59275250a449ceeff9c535196b0d83ccedb131d-998d71b4a32747d0d36982e819753317-1779155616-1779144816&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.PIX.HD/index.m3u8?token=0517c9c1562a810ee04d7e3c6df63647b0bf34c6-662ef969201b460882db8fd12c9b4b19-1779159547-1779148747&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/MNX HD1745039955.png",MNX HD
-http://tv.moviemasti.net:8082/MNX.HD/index.m3u8?token=1c813ed5194f21b36f5f212fa3358db9b71bca09-f6e0a6eebb0206f4399141dbb0b8f2d0-1779155617-1779144817&remote=no_check_ip
+http://tv.moviemasti.net:8082/MNX.HD/index.m3u8?token=ca3ebcc7bd24f86df1495dd240be44edaeacc342-5bafecbc47f680b62a55f9480942d39d-1779159548-1779148748&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ROMEDY NOW1745039988.png",ROMEDY NOW
-http://tv.moviemasti.net:8082/ROMEDY.NOW/index.m3u8?token=80433c57da755201b3ee4cbdc6a8bd8bf6519289-ec6fc0f50c04cac59fe13bd9a2af4925-1779155617-1779144817&remote=no_check_ip
+http://tv.moviemasti.net:8082/ROMEDY.NOW/index.m3u8?token=473115b0ce255c1d58fee98383f3df2a78039480-b66c7013f11bf8e2f8bd8a3fd6d06d77-1779159549-1779148749&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/AND FLIX HD1745040018.png",AND FLIX HD
-http://tv.moviemasti.net:8082/AND.FLIX.HD/index.m3u8?token=6bc5a7abadf35d559b1cc8fc32c4286ad3cec784-86262ff1b93add27916436f9704e775b-1779155618-1779144818&remote=no_check_ip
+http://tv.moviemasti.net:8082/AND.FLIX.HD/index.m3u8?token=033183b75c58b1d269ffd302049b7c4b93e06ffc-18e83d804dabf353d6f9b59e094ada49-1779159550-1779148750&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/MN PLUS1745040057.png",MN PLUS
-http://tv.moviemasti.net:8082/MN.PLUS.HD/index.m3u8?token=27595698994ff83786c80d809d61b9d14c947c47-8afd9ff5c24ea1c11cb2cc5f29a972d0-1779155619-1779144819&remote=no_check_ip
+http://tv.moviemasti.net:8082/MN.PLUS.HD/index.m3u8?token=acff89a660dcfd547092dcdaded121e2ab2f8221-7e4ed1f66d5d7bb3e1d9f27bef4b242b-1779159550-1779148750&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ZEE CAFE HD1745040102.png",ZEE CAFE HD
-http://tv.moviemasti.net:8082/ZEE.CAFE.HD/index.m3u8?token=2d0ac787b7922205489495115bd982c15f820dc1-12044194873b12a458a3b1e53141058b-1779155620-1779144820&remote=no_check_ip
+http://tv.moviemasti.net:8082/ZEE.CAFE.HD/index.m3u8?token=ff690b0055afe0667f019afbc4859b0d67651fb3-3ceec7e08c8fe8b0998e60f5d00a2372-1779159551-1779148751&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR MOVIES HD1745040174.png",STAR MOVIES HD
-http://tv.moviemasti.net:8082/STAR.MOVIES.HD/index.m3u8?token=e8169647a3c59785f0c6fbba146ef49337fed822-a4708d239760f23f1bd0aa632350d16d-1779155621-1779144821&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.MOVIES.HD/index.m3u8?token=18953022d9844c76dc0b8e0772d4f1a20c9e6f39-9b33b9271b5d8777a38e140203f3b912-1779159552-1779148752&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/MOVIES NOW HD1745040368.png",MOVIES NOW HD
-http://tv.moviemasti.net:8082/MOVIES.NOW.HD/index.m3u8?token=ccaf8ca7be3df8ad79b6dce429eb8e3647a1683e-5df2908b1f4061c24c76236728831346-1779155621-1779144821&remote=no_check_ip
+http://tv.moviemasti.net:8082/MOVIES.NOW.HD/index.m3u8?token=c10d37a34595308d37d6281b75352f3ab59bfde9-161de48f75cf533e88f78e747bf74047-1779159553-1779148753&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/EUROSPORTS HD1745040406.png",EUROSPORTS HD
-http://tv.moviemasti.net:8082/EUROSPORTS.HD/index.m3u8?token=ff29c2afb25141a4697fc3b270a36886e51fbd44-03d899cfe2cdd27847871e7d8dd32c83-1779155622-1779144822&remote=no_check_ip
+http://tv.moviemasti.net:8082/EUROSPORTS.HD/index.m3u8?token=bdcc1c559def0d51317928a69a2a18fe3ee2ee64-c6ac2fbafd822d7592a5a14a2eadbdf8-1779159553-1779148753&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/AND PRIVE HD1745040451.png",AND PRIVE HD
-http://tv.moviemasti.net:8082/AND.PRIVE.HD/index.m3u8?token=78aca481958d50f660127ce1f42780507206ca1e-5bda089e959326badf899b5be9d90991-1779155623-1779144823&remote=no_check_ip
+http://tv.moviemasti.net:8082/AND.PRIVE.HD/index.m3u8?token=47fa5ba765862a0fc9e2ba817b71a9a4f77c6acd-003e71dd5205bd4089dbdeafb1127b14-1779159554-1779148754&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ZOOM1745040961.png",ZOOM
-http://tv.moviemasti.net:8082/ZOOM.MUSIC/index.m3u8?token=c60aa08467c14f9cd109bec1ca8f5bba6c2ff72a-231fb95c855927dd8a9318070d7a70c1-1779155624-1779144824&remote=no_check_ip
+http://tv.moviemasti.net:8082/ZOOM.MUSIC/index.m3u8?token=2bcc3a16c48a92050537ce854d998c3df9abe4f4-733e9e1f3b7c92ec45147fdf5fa71c79-1779159555-1779148755&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ZEE BANGLA CINEMA1745040996.png",ZEE BANGLA CINEMA
-http://tv.moviemasti.net:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=efc49f2f101cb2267b95908dd03b1d0aa6bb212c-4ffe5e3b9fc92971ed1003bf7ff6e1d3-1779155625-1779144825&remote=no_check_ip
+http://tv.moviemasti.net:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=98216abb9373d4a3b77a320f33fb868fe4be8913-8c8580f54bd6a8b1608a21f11a44b3e6-1779159556-1779148756&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SONY AAT1745041124.png",SONY AAT
-http://tv.moviemasti.net:8082/SONY.AAT/index.m3u8?token=587cb251f02150b7bb9aa3099bb9660c875c2e9c-a0be5c624967ec032e7a46af6669ffa5-1779155625-1779144825&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.AAT/index.m3u8?token=a8c663c555a250c16a7bd8b1cafbd4d6f0722398-c99d434027dc714870cf3708e64f4046-1779159557-1779148757&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SONIC1745041154.png",SONIC
-http://tv.moviemasti.net:8082/SONIC/index.m3u8?token=e3c441e37848d9ec4a0144051c3a3c0fe42494f2-e601dc0220ae95eba02ae98ad8804fcf-1779155626-1779144826&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONIC/index.m3u8?token=157cde56dbff815b789579911e5a5fa5d35fbf65-e833cf55c14cb077a06f3586da87025d-1779159557-1779148757&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/NICK1745041451.png",NICK
-http://tv.moviemasti.net:8082/NICK/index.m3u8?token=7765326e09a5fe34ce65931c8608b2063251522e-3ce2dec6d9efffc623ca87236a1fab07-1779155627-1779144827&remote=no_check_ip
+http://tv.moviemasti.net:8082/NICK/index.m3u8?token=643c455ce38a25d4058320a819093a3c3e5cb8a0-98122bba36a926da241ab7ecfadaf3f6-1779159558-1779148758&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/COLORS BANGLA CINEMA1745041486.png",COLORS BANGLA CINEMA
-http://tv.moviemasti.net:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=5ec4ea87a0274129c051e4c460bff43f9a54cc21-2ee9db7b6cf14dfbee3c549045edb648-1779155628-1779144828&remote=no_check_ip
+http://tv.moviemasti.net:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=6a59385d997140c70b349737887a1804d67f42ac-d16976bb977f58c632bc764a6fa9c24c-1779159559-1779148759&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/POGO1745041515.png",POGO
-http://tv.moviemasti.net:8082/POGO/index.m3u8?token=df1a940f1bcceb31f36cc2b54d957459b35fee3d-8ba1234b521d925f36cf1773f4b6d64f-1779155629-1779144829&remote=no_check_ip
+http://tv.moviemasti.net:8082/POGO/index.m3u8?token=7a5c4218857f4dc46621d6278b93bb1928302a48-f736710d4ac3ff9d4a625d24f24ccaea-1779159560-1779148760&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/HUNGAMA1745041551.png",HUNGAMA
-http://tv.moviemasti.net:8082/HUNGAMA/index.m3u8?token=184bdc01fa62930bd2b274b512b7c926ea44313a-cd8b97e3e90a67a01571f01112e8bda6-1779155629-1779144829&remote=no_check_ip
+http://tv.moviemasti.net:8082/HUNGAMA/index.m3u8?token=44454c7c5c962d1b803b5bd00556bfcfbbfd9ee4-cfea0c9a8f2a652fd08ae0b92240e802-1779159561-1779148761&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/BAL BHARAT1745041576.png",BAL BHARAT
-http://tv.moviemasti.net:8082/ETV.BAL.BHARAT/index.m3u8?token=dfaabbb1f783bc839fe9ef285c2a43355688a75d-8a6eb7e4aff2db0927ee49acf3e11d0c-1779155630-1779144830&remote=no_check_ip
+http://tv.moviemasti.net:8082/ETV.BAL.BHARAT/index.m3u8?token=03606235a4644bc0440dd75f459b276a224fb0c0-86ac4df8700696a70096619abb6c2bf3-1779159561-1779148761&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/NICK JR1745042397.png",NICK JR
-http://tv.moviemasti.net:8082/NICK.JR/index.m3u8?token=1452a19f3eb3c72256ba683086a622f96652a154-26cc837132676d4a4070ccee44f777ce-1779155631-1779144831&remote=no_check_ip
+http://tv.moviemasti.net:8082/NICK.JR/index.m3u8?token=f42634c6f2fe76834f708ccd5effe857d1634735-8666e66f55d4d42667c69598297fcd6f-1779159562-1779148762&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ZING1745042718.png",ZING
-http://tv.moviemasti.net:8082/ZING.MUSIC/index.m3u8?token=f6ee6a588d8515f5c33d66ed4d35c530972f69af-b26c9a2b4404279914134dd10f27bfd0-1779155632-1779144832&remote=no_check_ip
+http://tv.moviemasti.net:8082/ZING.MUSIC/index.m3u8?token=59fb0f0590df7c9bb1d8a364e95a152fc098dfa9-cda7dac5a39d08eb5cab88c38597fbfb-1779159563-1779148763&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/NAGORIK1745042776.png",NAGORIK
-http://tv.moviemasti.net:8082/NAGORIK.TV.HD/index.m3u8?token=478f696de820c30a99028016d59dff070a008a53-9c66dc5343da75eef3d76ad48fb1d3e9-1779155633-1779144833&remote=no_check_ip
+http://tv.moviemasti.net:8082/NAGORIK.TV.HD/index.m3u8?token=6273a708cee163c5e33124be66044f3ab9dde93e-381ee10b4596da820807fd6612d902e0-1779159564-1779148764&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/GTV1745042853.png",GTV
-http://tv.moviemasti.net:8082/GAZI.TV.HD/index.m3u8?token=8b204a4b39f00394d8519c5bb630e88873019680-b963f706b8547ca3ccf3487353a6ef01-1779155633-1779144833&remote=no_check_ip
+http://tv.moviemasti.net:8082/GAZI.TV.HD/index.m3u8?token=11243fc820b7acabc8469bb517ba08553ce39efc-544a45d63410bd653038545fd9bd3393-1779159565-1779148765&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/AND XPLORE1745043080.png",AND XPLORE
-http://tv.moviemasti.net:8082/XPLOR.HD/index.m3u8?token=547d1c014bf3804fd4adf40cc90df06c4235f4a8-20d61bdfe33bab9e029841b1b45dc5d4-1779155634-1779144834&remote=no_check_ip
+http://tv.moviemasti.net:8082/XPLOR.HD/index.m3u8?token=ac2e5281d7cd6e9b67058ecac7dd153a8f5d6be7-248e74b38b8855b469a555f812e21359-1779159565-1779148765&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/TRAVEL XP1745043118.png",TRAVEL XP
-http://tv.moviemasti.net:8082/TRAVELXP.HD/index.m3u8?token=ccafd04b1ce540ffe973909eaf2b49c1d1640e47-9ff04bc8a19f476857e2392101a6818b-1779155635-1779144835&remote=no_check_ip
+http://tv.moviemasti.net:8082/TRAVELXP.HD/index.m3u8?token=65cc79e51d16fe702321513ff4957a25ef7beac0-96f2b9825671d3dccc0ec4b433e0e2f4-1779159566-1779148766&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/DURANTA TV1745043400.png",DURANTA TV
-http://tv.moviemasti.net:8082/DURANTA.TV.HD/index.m3u8?token=4a2dbc369e03771240dbc6185d273d58494e7834-2c8c892d200d81567f77a96e450fba1a-1779155636-1779144836&remote=no_check_ip
+http://tv.moviemasti.net:8082/DURANTA.TV.HD/index.m3u8?token=d67e6c46d2ca6b6cb1f4d28bd7b56c924e34336f-dd8125dfcc312e033cc6d5f2d33b002c-1779159567-1779148767&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR GOLD SELECT HD1745043508.png",STAR GOLD SELECT HD
-http://tv.moviemasti.net:8082/STAR.GOLD.SEL.HD/index.m3u8?token=91e1ff195ae5c3ba19e56ba7bd47bb09594c3704-81d33e70d2f94082150a6292e14fed99-1779155637-1779144837&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.GOLD.SEL.HD/index.m3u8?token=13dbdd28298b9847a191c1af439fc978ccf12fd2-aa564fa11ae269534d42ce98b6c69cc0-1779159568-1779148768&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/sony sports 4.png",SONY SPORTS 4
-http://tv.moviemasti.net:8082/SONY.SPORTS.4/index.m3u8?token=f4e96015c4c4564a2d4d4b8709933f015dfa5fc3-4a25d795b8b251fda4973253907dea83-1779155638-1779144838&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.SPORTS.4/index.m3u8?token=fddcbfef26615d3d99bc9f7a1969da16be11353d-429177033241d6278720a09b53183523-1779159568-1779148768&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/sony sports 1 hd.png",SONY SPORTS 1 HD
-http://tv.moviemasti.net:8082/SONY.SPORTS.1HD/index.m3u8?token=a7e3eb94e89ddad442fe77c5926b6dc35fb43eb0-014377d87c437bf02c55badadb178d98-1779155638-1779144838&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.SPORTS.1HD/index.m3u8?token=b95e03542900395161dcf876570b129598e16362-e1266dfa243096cad5139281eb4315da-1779159569-1779148769&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SUPER HUNGAMA1745044022.png",SUPER HUNGAMA
-http://tv.moviemasti.net:8082/SUPER.HUNGAMA/index.m3u8?token=612edc3ce5d772c5a91ab5dbc8807163993dc604-dde1ac61e2a3af0ac7d41de17d977839-1779155639-1779144839&remote=no_check_ip
+http://tv.moviemasti.net:8082/SUPER.HUNGAMA/index.m3u8?token=cec4e9461a986d26839a163476599798fb2bd5fc-a8e912d6f84f55df254f82c443f75a9f-1779159570-1779148770&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/JAMUNA TV1745044052.png",JAMUNA TV
-http://tv.moviemasti.net:8082/JAMUNA.TV/index.m3u8?token=34dedebe788055053f2ec3f19f01904c0286bf25-0b23df12bdda6b8a290c671221c860cd-1779155640-1779144840&remote=no_check_ip
+http://tv.moviemasti.net:8082/JAMUNA.TV/index.m3u8?token=61064eddc395fda2ca65bc6334aba199e48d675f-8983cc74f8623d0b92a3adf61d22e3b0-1779159571-1779148771&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/INDEPENDENT TV1745044077.png",INDEPENDENT TV
-http://tv.moviemasti.net:8082/INDEPENDENT.TV/index.m3u8?token=d892d13489bdc1652fc7c2303576c5e249bd314d-6fc4f044528119d333e5c86bc4188101-1779155641-1779144841&remote=no_check_ip
+http://tv.moviemasti.net:8082/INDEPENDENT.TV/index.m3u8?token=64e04428e42912851bb18acc8e8be1e4b599fc2c-9fa0025f8a3990c7ca3dce9aa8110695-1779159572-1779148772&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/MAASRANGA HD1745044117.png",MAASRANGA HD
-http://tv.moviemasti.net:8082/MASRANGA.TV.HD/index.m3u8?token=602ddbf29925fe54db9896c6615e61a88583d857-eb6af013a5ebf186138be03958fec5d1-1779155641-1779144841&remote=no_check_ip
+http://tv.moviemasti.net:8082/MASRANGA.TV.HD/index.m3u8?token=277a876b7dffa4f4e504b587d5d34d3d906e0d0e-55eaa91497a1ee826b3c91ebd18d8c2c-1779159572-1779148772&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SOMOY TV1745044149.png",SOMOY TV
-http://tv.moviemasti.net:8082/SOMOY.TV.HD/index.m3u8?token=1766b731c9877ad7ea8e946cedb834d1af62e6cf-14385a6e33ee3e4640b98f9924503f38-1779155642-1779144842&remote=no_check_ip
+http://tv.moviemasti.net:8082/SOMOY.TV.HD/index.m3u8?token=51c80f5b0ffad8ef287178c3f32ec57b54457cfb-e77e6a91d99930822b8982c8c2bdd93c-1779159573-1779148773&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ATN BANGLA1745044183.png",ATN BANGLA
-http://tv.moviemasti.net:8082/ATN.BANGLA.HD/index.m3u8?token=95b40fce71b44f4706f2120fb6657547f0315295-229da0f351a5aad9404a0f3b60206542-1779155643-1779144843&remote=no_check_ip
+http://tv.moviemasti.net:8082/ATN.BANGLA.HD/index.m3u8?token=b5ae89208e7c62becf303c325ad797ea270b02bd-56f07a5b4e4016e546d41b2b6971c33d-1779159574-1779148774&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/CHANNEL I1745044237.png",CHANNEL I
-http://tv.moviemasti.net:8082/CHANNEL.I.HD/index.m3u8?token=c2bcea404d5afc3bbff8da7ad3e340104c1a06e2-a47412a82fc25e83a61273fab17a4ed3-1779155644-1779144844&remote=no_check_ip
+http://tv.moviemasti.net:8082/CHANNEL.I.HD/index.m3u8?token=7ac69d2a269a099bebbde138e8d1197b36433b1c-91acd5274ae04aef7291f50bb954b8b5-1779159575-1779148775&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/CHANNEL 241745044263.png",CHANNEL 24
-http://tv.moviemasti.net:8082/CHANNEL.24.HD/index.m3u8?token=081f51acec48a9c16b8fc2143916009f5b1507d0-64d59a400208a208dac18796e4d212cb-1779155645-1779144845&remote=no_check_ip
+http://tv.moviemasti.net:8082/CHANNEL.24.HD/index.m3u8?token=65a0397a50629b07282604fc5f8bdc31c92c17cd-a8a85a3d1102d88fab523a6f49d3774d-1779159576-1779148776&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/MADANI TV HD1745044303.png",MADANI TV HD
-http://tv.moviemasti.net:8082/MADANI.TV.HD/index.m3u8?token=59a1f504cb00d5a4f52dac0e8a0d0875a5789728-56aa4d981ef37314ce29c579d2f7f366-1779155645-1779144845&remote=no_check_ip
+http://tv.moviemasti.net:8082/MADANI.TV.HD/index.m3u8?token=5f801bb61925b3977615b9d458688ebea8546bac-8247d000c400a774d7425c4a7439c556-1779159576-1779148776&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ENTERR 101745044330.png",ENTERR 10
-http://tv.moviemasti.net:8082/ENTER10.BANGLA/index.m3u8?token=92d357a87899212280bc7e304ba7fd2a394e5ddf-a5975b164be4ddb4cf6cc27475befd96-1779155646-1779144846&remote=no_check_ip
+http://tv.moviemasti.net:8082/ENTER10.BANGLA/index.m3u8?token=131e800266c7e7f1fb9e5161f2b8a0b6ed0299eb-09e2fde95ccb75aa69eb45c95e7b8fa7-1779159577-1779148777&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ALJAZEETA HD1745044358.png",ALJAZEERA HD
-http://tv.moviemasti.net:8082/ALJAZEERA.HD/index.m3u8?token=fde1c2e2973462586e4b781f0316a245f407a4f7-aa7460297377167d60a6bcc048cca130-1779155647-1779144847&remote=no_check_ip
+http://tv.moviemasti.net:8082/ALJAZEERA.HD/index.m3u8?token=e637631fc1a78b367417c68d31751783a664af47-840c95ad51720e8fb9e915674382252a-1779159578-1779148778&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/PEACE TV BANGLA1745044480.png",PEACE TV BANGLA
-http://tv.moviemasti.net:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=124f0fb3f47f8a668616cd484b76e5e4235f44b1-fca1a0c2bf28553a9d50ccb30fff479e-1779155648-1779144848&remote=no_check_ip
+http://tv.moviemasti.net:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=6a3628c3a7a84c51fff7c1fcbb6d2b4d2e156db0-5953ff115691ce25322de67dfb97a8ec-1779159579-1779148779&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/FAST SPORTS HD1745044750.png",FAST SPORTS HD
-http://tv.moviemasti.net:8082/FAST.SPORTS.HD/index.m3u8?token=f0955c38e9cda43aa522152a49a7cd2caa41b7cc-3af8e29d47150d431a05b73437dca104-1779155649-1779144849&remote=no_check_ip
+http://tv.moviemasti.net:8082/FAST.SPORTS.HD/index.m3u8?token=c57dd3be060c9d68267dfaf186bfb277ad5a3a17-27c102c31cd0fdd67e0081056fc07ad3-1779159580-1779148780&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/A SPORTS HD1745044782.png",A SPORTS HD
-http://tv.moviemasti.net:8082/A.SPORTS.HD/index.m3u8?token=ff0f646b7cff05d0b3a00ecd1d346922d0fbdea9-9e2f46f1d1e1a4753a911612258c91ca-1779155649-1779144849&remote=no_check_ip
+http://tv.moviemasti.net:8082/A.SPORTS.HD/index.m3u8?token=96c818ac720b8f33795eade9f5e5cb6278be0748-43fa3aba79d6e8f0f05ab2617d9cc2df-1779159580-1779148780&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/HUM TV1745044837.png",HUM TV
-http://tv.moviemasti.net:8082/HUM.MASALA.TV/index.m3u8?token=146053e69202daeb37112d96c27eb7eff14c7d34-cbebad190b14f6e6ce3bbece06c0b539-1779155650-1779144850&remote=no_check_ip
+http://tv.moviemasti.net:8082/HUM.MASALA.TV/index.m3u8?token=365b06137b9fb8836b053c6085534cec154432b8-00a058962a0503bb224dd6c6ca078396-1779159581-1779148781&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/GEO NEWS HD1745044892.png",GEO NEWS HD
-http://tv.moviemasti.net:8082/GEO.NEWS.HD/index.m3u8?token=a7508c76bd5a12191fe16683170202c31baba41c-bbcf8cd372bc84fa12b5080341a434bf-1779155651-1779144851&remote=no_check_ip
+http://tv.moviemasti.net:8082/GEO.NEWS.HD/index.m3u8?token=c3a88eb4e1441ad2ff452a2817e9cde0436f8853-c2b16b5d666d8d79a3deb0ad5d67415a-1779159582-1779148782&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/LOTUS TV1745044960.png",LOTUS TV
-http://tv.moviemasti.net:8082/Lotus.TV.HD/index.m3u8?token=a6a28af7704fd823ff245fdab6af18b4fa418b39-173077e0fbff087ec1c39b0635f53d9d-1779155652-1779144852&remote=no_check_ip
+http://tv.moviemasti.net:8082/Lotus.TV.HD/index.m3u8?token=21bdf4f2aeb0a5573ec24a975c2570c54d6d3d5c-6d79ace8acba8d1252a2a072d5a8d213-1779159583-1779148783&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/PTV SPORTS HD1745044993.png",PTV SPORTS HD
-http://tv.moviemasti.net:8082/PTV-SPORTS-HD/index.m3u8?token=f8128cd01edc83759538532ec50bc1db8116bdf7-7d0c032ddd69e83fac2a61532bb6206e-1779155653-1779144853&remote=no_check_ip
+http://tv.moviemasti.net:8082/PTV-SPORTS-HD/index.m3u8?token=a4560c0d6205d349eaa0acea06a6e024fb1a9605-1c71f06cf1f606a10899b79ce5d85791-1779159583-1779148783&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/SONY YAY1745045046.png",SONY YAY
-http://tv.moviemasti.net:8082/SONY.YAY/index.m3u8?token=c5cd9e7910252a5aa05ecc1379a2244b3a6102e1-ecada5e7b5e6d9055fd0f65688d3ae51-1779155653-1779144853&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY.YAY/index.m3u8?token=19c233579217c4a7485b2d09c27fba96c816ac5a-2b555aabe91d924b7530eae90620e506-1779159584-1779148784&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/ATN NEWS1745045113.png",ATN NEWS
-http://tv.moviemasti.net:8082/ATN.NEWS.HD/index.m3u8?token=110750c8ad412d4cb8a9f05d52c29269a40ca718-3669fd14eb19a33f47e266f9023c8384-1779155654-1779144854&remote=no_check_ip
+http://tv.moviemasti.net:8082/ATN.NEWS.HD/index.m3u8?token=f74a808c61ed146bb4a94cf0d08529ff17454bba-ab41d0c8493ca9e21b33189796abcaa9-1779159585-1779148785&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/AXN HD1745045171.png",AXN HD
-http://tv.moviemasti.net:8082/AXN.HD/index.m3u8?token=78aa8bcd62acd336d7d488b04bf760415fa10283-109532be45ae40b5cf4acd38b83948ac-1779155655-1779144855&remote=no_check_ip
+http://tv.moviemasti.net:8082/AXN.HD/index.m3u8?token=407b7be9681b6792d76fc6c253f3b83d120c74c3-85e5c72ccea1619df9fbe4dcbbc1b784-1779159586-1779148786&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/STAR BHARAT HD1745045255.png",STAR BHARAT HD
-http://tv.moviemasti.net:8082/STAR.BHARAT.HD/index.m3u8?token=66791b830654dee93b850138ddc751485e7d9b41-efacb11ca002f13d862836c687118dea-1779155656-1779144856&remote=no_check_ip
+http://tv.moviemasti.net:8082/STAR.BHARAT.HD/index.m3u8?token=73d5a5ee1b96be245f88075777ab395d7da54b8a-1204e72eb22510806f72b677501a586e-1779159587-1779148787&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/sony sports 5 hd.png",SONY SPORTS 5 HD
-http://tv.moviemasti.net:8082/SONY-SPORTS.5HD/index.m3u8?token=2f3afeccf511a7549c3cea03b575fc2349e8bef2-7b53323b0a99a07683a45c498c81ad03-1779155657-1779144857&remote=no_check_ip
+http://tv.moviemasti.net:8082/SONY-SPORTS.5HD/index.m3u8?token=b49d3d5b00956126d18d9436618c518b73635971-70d9f26af2bb168ae0b74b464e337722-1779159587-1779148787&remote=no_check_ip
 #EXTINF:-1 tvg-logo="http://tv.moviemasti.net/assets/images/BBC EARTH HD1745150455.png",BBC EARTH HD
-http://tv.moviemasti.net:8082/BBC.Earth.HD/index.m3u8?token=127add3cd4f89a5cceae2a1e736c39d415844ca2-ab05a2b393be930c4fbc1f01c53aa8cc-1779155657-1779144857&remote=no_check_ip
+http://tv.moviemasti.net:8082/BBC.Earth.HD/index.m3u8?token=7cb84b6a263a15312e5c5863e3129d517d289009-95401020df0fd1c521baef3fca6c5dcb-1779159588-1779148788&remote=no_check_ip
