@@ -2,7 +2,7 @@ name: Update Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,10 +17,7 @@ jobs:
 
       - run: pip install requests
 
-      - run: |
-          cat > scraper.py << 'EOF'
-          ${{ secrets.PLAYLIST_SCRIPT }}
-          EOF
+      - run: echo "${{ secrets.PLAYLIST_SCRIPT }}" > scraper.py
 
       - run: sed -i 's|/storage/emulated/0/Download/|./|g' scraper.py
 
@@ -30,5 +27,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add playlist.m3u
-          git diff --cached --quiet || git commit -m 'Update playlist '"$(date -u '+%Y-%m-%d %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "Update playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
