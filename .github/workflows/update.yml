@@ -17,7 +17,10 @@ jobs:
 
       - run: pip install requests
 
-      - run: echo "${{ secrets.PLAYLIST_SCRIPT }}" > scraper.py
+      - name: Write script
+        env:
+          SCRIPT: ${{ secrets.PLAYLIST_SCRIPT }}
+        run: printenv SCRIPT > scraper.py
 
       - run: sed -i 's|/storage/emulated/0/Download/|./|g' scraper.py
 
