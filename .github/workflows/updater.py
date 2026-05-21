@@ -1,0 +1,39 @@
+name: Update RoarZone M3U
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Write script from secret
+        run: echo "${{ secrets.ROARZONE_SCRIPT }}" > roarzone_m3u.py
+
+      - name: Run script
+        run: python3 roarzone_m3u.py
+
+      - name: Rename output to rzone.m3u
+        run: mv roarzone.m3u rzone.m3u
+
+      - name: Commit and push rzone.m3u
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rzone.m3u
+          git diff --cached --quiet || git commit -m "chore: update rzone.m3u [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
