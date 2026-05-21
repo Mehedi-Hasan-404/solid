@@ -23,8 +23,8 @@ jobs:
 
       - name: Write script from secret
         env:
-          SCRIPT_B64: ${{ secrets.ROARZONE_SCRIPT }}
-        run: printf '%s' "$SCRIPT_B64" | base64 -d > roarzone_m3u.py
+          ROARZONE_SCRIPT: ${{ secrets.ROARZONE_SCRIPT }}
+        run: printenv ROARZONE_SCRIPT > roarzone_m3u.py
 
       - name: Run script
         run: python3 roarzone_m3u.py
