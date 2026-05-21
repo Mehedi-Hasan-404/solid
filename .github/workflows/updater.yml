@@ -22,7 +22,9 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Write script from secret
-        run: echo "${{ secrets.ROARZONE_SCRIPT }}" | base64 -d > roarzone_m3u.py
+        env:
+          SCRIPT_B64: ${{ secrets.ROARZONE_SCRIPT }}
+        run: printf '%s' "$SCRIPT_B64" | base64 -d > roarzone_m3u.py
 
       - name: Run script
         run: python3 roarzone_m3u.py
